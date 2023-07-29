@@ -1,0 +1,155 @@
+.mainpage {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .mainpage .overlap-group-wrapper {
+    background-color: #ffffff;
+    border: 1px none;
+    height: 926px;
+    width: 428px;
+  }
+  
+  .mainpage .overlap-group {
+    height: 856px;
+    left: 29px;
+    position: relative;
+    top: 28px;
+    width: 377px;
+  }
+  
+  .mainpage .group {
+    height: 427px;
+    left: 4px;
+    position: absolute;
+    top: 428px;
+    width: 372px;
+  }
+  
+  .mainpage .div {
+    height: 297px;
+    left: 0;
+    position: absolute;
+    top: 130px;
+    width: 361px;
+  }
+  
+  .mainpage .group-2 {
+    height: 167px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 365px;
+  }
+  
+  .mainpage .extremely-easy-to {
+    color: transparent;
+    font-family: "Poppins", Helvetica;
+    font-size: 26px;
+    font-weight: 600;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 41px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .mainpage .text-wrapper {
+    color: #242424;
+  }
+  
+  .mainpage .span {
+    color: #6d75d7;
+  }
+  
+  .mainpage .text-wrapper-2 {
+    color: #242424;
+    font-size: 25px;
+  }
+  
+  .mainpage .lorem-ipsum-dolor {
+    color: #919191;
+    font-family: "Poppins", Helvetica;
+    font-size: 14px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 27px;
+    position: absolute;
+    top: 102px;
+    width: 361px;
+  }
+  
+  .mainpage .group-3 {
+    height: 65px;
+    left: 0;
+    position: absolute;
+    top: 232px;
+    width: 361px;
+  }
+  
+  .mainpage .group-4 {
+    height: 6px;
+    left: 0;
+    position: absolute;
+    top: 30px;
+    width: 40px;
+  }
+  
+  .mainpage .rectangle {
+    background-color: #242424;
+    border-radius: 10px;
+    height: 6px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 20px;
+  }
+  
+  .mainpage .rectangle-2 {
+    background-color: #dfe4eb;
+    border-radius: 10px;
+    height: 6px;
+    left: 24px;
+    position: absolute;
+    top: 0;
+    width: 6px;
+  }
+  
+  .mainpage .rectangle-3 {
+    background-color: #dfe4eb;
+    border-radius: 10px;
+    height: 6px;
+    left: 34px;
+    position: absolute;
+    top: 0;
+    width: 6px;
+  }
+  
+  .mainpage .img {
+    height: 65px;
+    left: 296px;
+    position: absolute;
+    top: 0;
+    width: 65px;
+  }
+  
+  .mainpage .group-5 {
+    height: 8px;
+    left: 359px;
+    position: absolute;
+    top: 0;
+    width: 13px;
+  }
+  
+  .mainpage .group-6 {
+    height: 531px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 369px;
+  }
+  

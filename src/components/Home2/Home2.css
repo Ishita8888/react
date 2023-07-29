@@ -1,0 +1,360 @@
+.home22 {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .home22 .div {
+    background-color: #ffffff;
+    border: 1px none;
+    height: 926px;
+    position: relative;
+    width: 428px;
+  }
+  
+  .home22 .group {
+    height: 297px;
+    left: 33px;
+    position: absolute;
+    top: 586px;
+    width: 361px;
+  }
+  
+  .home22 .group-2 {
+    height: 297px;
+    position: relative;
+  }
+  
+  .home22 .group-3 {
+    height: 167px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 365px;
+  }
+  
+  .home22 .get-exciting-courses {
+    color: transparent;
+    font-family: "Poppins", Helvetica;
+    font-size: 26px;
+    font-weight: 600;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 41px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .home22 .text-wrapper {
+    color: #242424;
+  }
+  
+  .home22 .span {
+    color: #242424;
+    font-size: 25px;
+  }
+  
+  .home22 .text-wrapper-2 {
+    color: #6d75d7;
+    font-size: 25px;
+  }
+  
+  .home22 .lorem-ipsum-dolor {
+    color: #919191;
+    font-family: "Poppins", Helvetica;
+    font-size: 14px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 27px;
+    position: absolute;
+    top: 102px;
+    width: 361px;
+  }
+  
+  .home22 .group-4 {
+    height: 65px;
+    left: 0;
+    position: absolute;
+    top: 232px;
+    width: 361px;
+  }
+  
+  .home22 .group-5 {
+    height: 6px;
+    left: 0;
+    position: absolute;
+    top: 30px;
+    width: 40px;
+  }
+  
+  .home22 .rectangle {
+    background-color: #242424;
+    border-radius: 10px;
+    height: 6px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 20px;
+  }
+  
+  .home22 .rectangle-2 {
+    background-color: #dfe4eb;
+    border-radius: 10px;
+    height: 6px;
+    left: 24px;
+    position: absolute;
+    top: 0;
+    width: 6px;
+  }
+  
+  .home22 .rectangle-3 {
+    background-color: #dfe4eb;
+    border-radius: 10px;
+    height: 6px;
+    left: 34px;
+    position: absolute;
+    top: 0;
+    width: 6px;
+  }
+  
+  .home22 .img {
+    height: 65px;
+    left: 296px;
+    position: absolute;
+    top: 0;
+    width: 65px;
+  }
+  
+  .home22 .overlap-wrapper {
+    height: 527px;
+    left: 33px;
+    position: absolute;
+    top: 32px;
+    width: 361px;
+  }
+  
+  .home22 .overlap {
+    background-image: url(https://generation-sessions.s3.amazonaws.com/59001cb736b7b05a9d5747db9733886d/img/group-1410104522.png);
+    background-size: 100% 100%;
+    height: 531px;
+    left: -4px;
+    position: relative;
+    top: -4px;
+    width: 369px;
+  }
+  
+  .home22 .overlap-group-wrapper {
+    height: 118px;
+    left: 37px;
+    position: absolute;
+    top: 66px;
+    width: 300px;
+  }
+  
+  .home22 .overlap-group {
+    background-color: #f0f1f5;
+    border-radius: 18.54px;
+    height: 118px;
+    position: relative;
+    width: 296px;
+  }
+  
+  .home22 .group-6 {
+    background-color: #6d75d752;
+    border: 1.09px solid;
+    border-color: #6d75d7;
+    border-radius: 12.54px;
+    height: 25px;
+    left: 134px;
+    position: absolute;
+    top: 24px;
+    width: 25px;
+  }
+  
+  .home22 .text-wrapper-3 {
+    color: #20294c;
+    font-family: "Poppins", Helvetica;
+    font-size: 13.1px;
+    font-weight: 600;
+    left: 115px;
+    letter-spacing: 1.09px;
+    line-height: 15.7px;
+    position: absolute;
+    text-align: center;
+    top: 65px;
+    white-space: nowrap;
+  }
+  
+  .home22 .text-wrapper-4 {
+    color: #676b89;
+    font-family: "Poppins", Helvetica;
+    font-size: 12px;
+    font-weight: 600;
+    left: 118px;
+    letter-spacing: 1.09px;
+    line-height: 15.7px;
+    position: absolute;
+    top: 89px;
+    white-space: nowrap;
+  }
+  
+  .home22 .group-7 {
+    height: 157px;
+    left: 37px;
+    position: absolute;
+    top: 290px;
+    width: 296px;
+  }
+  
+  .home22 .group-8 {
+    height: 31px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 296px;
+  }
+  
+  .home22 .ellipse {
+    background-color: #f0f1f5;
+    border-radius: 15.27px;
+    height: 31px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 31px;
+  }
+  
+  .home22 .rectangle-4 {
+    background-color: #f0f1f5;
+    border-radius: 2.18px;
+    height: 12px;
+    left: 39px;
+    position: absolute;
+    top: 0;
+    width: 113px;
+  }
+  
+  .home22 .rectangle-5 {
+    background-color: #676b8912;
+    border-radius: 2.18px;
+    height: 10px;
+    left: 39px;
+    position: absolute;
+    top: 21px;
+    width: 180px;
+  }
+  
+  .home22 .polygon-wrapper {
+    background-color: #6d75d7;
+    border-radius: 24.76px;
+    height: 21px;
+    left: 274px;
+    position: absolute;
+    top: 4px;
+    width: 21px;
+  }
+  
+  .home22 .polygon {
+    height: 6px;
+    left: 8px;
+    position: absolute;
+    top: 8px;
+    width: 5px;
+  }
+  
+  .home22 .group-9 {
+    height: 31px;
+    left: 0;
+    position: absolute;
+    top: 63px;
+    width: 296px;
+  }
+  
+  .home22 .group-10 {
+    height: 31px;
+    left: 0;
+    position: absolute;
+    top: 127px;
+    width: 296px;
+  }
+  
+  .home22 .polygon-2 {
+    height: 6px;
+    left: 8px;
+    position: absolute;
+    top: 9px;
+    width: 5px;
+  }
+  
+  .home22 .group-wrapper {
+    background-color: #f0f1f5;
+    border-radius: 10.91px;
+    height: 34px;
+    left: 36px;
+    position: absolute;
+    top: 218px;
+    width: 296px;
+  }
+  
+  .home22 .group-11 {
+    height: 34px;
+    left: 1px;
+    position: relative;
+    width: 276px;
+  }
+  
+  .home22 .div-wrapper {
+    background-color: #6d75d7;
+    border-radius: 9.82px;
+    height: 34px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 92px;
+  }
+  
+  .home22 .text-wrapper-5 {
+    color: #ffffff;
+    font-family: "Poppins", Helvetica;
+    font-size: 10.9px;
+    font-weight: 400;
+    left: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 13px;
+    white-space: nowrap;
+  }
+  
+  .home22 .text-wrapper-6 {
+    color: #676b89;
+    font-family: "Poppins", Helvetica;
+    font-size: 10.9px;
+    font-weight: 400;
+    left: 130px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 13px;
+    white-space: nowrap;
+  }
+  
+  .home22 .text-wrapper-7 {
+    color: #676b89;
+    font-family: "Poppins", Helvetica;
+    font-size: 10.9px;
+    font-weight: 400;
+    left: 224px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 13px;
+    white-space: nowrap;
+  }
+  

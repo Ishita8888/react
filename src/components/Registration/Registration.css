@@ -1,0 +1,354 @@
+.home2 {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .home2 .group-wrapper {
+    background-color: #ffffff;
+    border: 1px none;
+    height: 926px;
+    width: 428px;
+  }
+  
+  .home2 .group {
+    height: 835px;
+    left: 31px;
+    position: relative;
+    top: 40px;
+    width: 374px;
+  }
+  
+  .home2 .div {
+    height: 12px;
+    left: 5px;
+    position: absolute;
+    top: 0;
+    width: 73px;
+  }
+  
+  .home2 .text-wrapper {
+    color: #20294c;
+    font-family: "Poppins", Helvetica;
+    font-size: 15.5px;
+    font-weight: 600;
+    left: 26px;
+    letter-spacing: 0.56px;
+    line-height: 33.2px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .home2 .img {
+    height: 12px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 17px;
+  }
+  
+  .home2 .already-registered {
+    color: transparent;
+    font-family: "Poppins", Helvetica;
+    font-size: 12.4px;
+    font-weight: 400;
+    left: 94px;
+    letter-spacing: 0.31px;
+    line-height: 23.7px;
+    position: absolute;
+    top: 820px;
+    white-space: nowrap;
+    width: 179px;
+  }
+  
+  .home2 .span {
+    color: #00000069;
+    font-weight: 500;
+  }
+  
+  .home2 .text-wrapper-2 {
+    color: #000000;
+    font-weight: 600;
+    text-decoration: none;
+  }
+  
+  .home2 .line {
+    height: 1px;
+    left: 5px;
+    position: absolute;
+    top: 520px;
+    width: 366px;
+  }
+  
+  .home2 .group-2 {
+    height: 426px;
+    left: 5px;
+    position: absolute;
+    top: 63px;
+    width: 371px;
+  }
+  
+  .home2 .complete {
+    -webkit-text-stroke: 0.42px #ffffff;
+    color: #000000;
+    font-family: "Mazzard-HBold", Helvetica;
+    font-size: 35.8px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 35.8px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .home2 .overlap-group-wrapper {
+    height: 55px;
+    left: 0;
+    position: absolute;
+    top: 155px;
+    width: 369px;
+  }
+  
+  .home2 .overlap-group {
+    background-color: #00000008;
+    border: 1px solid;
+    border-color: #0000000d;
+    border-radius: 16px;
+    height: 55px;
+    position: relative;
+    width: 367px;
+  }
+  
+  .home2 .text-wrapper-3 {
+    color: #20294c3d;
+    font-family: "Poppins", Helvetica;
+    font-size: 12px;
+    font-weight: 500;
+    left: 24px;
+    letter-spacing: 0;
+    line-height: 17.3px;
+    position: absolute;
+    top: 23px;
+    white-space: nowrap;
+  }
+  
+  .home2 .overlap-wrapper {
+    height: 55px;
+    left: 0;
+    position: absolute;
+    top: 227px;
+    width: 369px;
+  }
+  
+  .home2 .div-wrapper {
+    height: 55px;
+    left: 0;
+    position: absolute;
+    top: 299px;
+    width: 369px;
+  }
+  
+  .home2 .group-3 {
+    height: 55px;
+    left: 0;
+    position: absolute;
+    top: 371px;
+    width: 369px;
+  }
+  
+  .home2 .text-wrapper-4 {
+    color: #00000094;
+    font-family: "Poppins", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 23px;
+    position: absolute;
+    top: 115px;
+    white-space: nowrap;
+  }
+  
+  .home2 .group-4 {
+    height: 48px;
+    left: 5px;
+    position: absolute;
+    top: 553px;
+    width: 358px;
+  }
+  
+  .home2 .group-5 {
+    height: 48px;
+    position: relative;
+  }
+  
+  .home2 .group-6 {
+    height: 48px;
+    left: 46px;
+    position: absolute;
+    top: 0;
+    width: 312px;
+  }
+  
+  .home2 .group-7 {
+    height: 48px;
+    width: 314px;
+  }
+  
+  .home2 .overlap-group-2 {
+    height: 48px;
+    position: relative;
+    width: 312px;
+  }
+  
+  .home2 .by-continuing-you {
+    color: transparent;
+    font-family: "Poppins", Helvetica;
+    font-size: 12.4px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0.31px;
+    line-height: 23.7px;
+    position: absolute;
+    top: 0;
+    width: 312px;
+  }
+  
+  .home2 .text-wrapper-5 {
+    color: #0000008a;
+  }
+  
+  .home2 .text-wrapper-6 {
+    color: #4195fc;
+  }
+  
+  .home2 .vector {
+    height: 1px;
+    left: 218px;
+    position: absolute;
+    top: 19px;
+    width: 69px;
+  }
+  
+  .home2 .vector-2 {
+    height: 1px;
+    left: 0;
+    position: absolute;
+    top: 46px;
+    width: 71px;
+  }
+  
+  .home2 .vector-3 {
+    height: 1px;
+    left: 105px;
+    position: absolute;
+    top: 46px;
+    width: 88px;
+  }
+  
+  .home2 .vector-wrapper {
+    background-image: url(https://generation-sessions.s3.amazonaws.com/7796e19a1ef16fa8448b7257f5de3694/img/checkbox.svg);
+    background-size: 100% 100%;
+    height: 32px;
+    left: 0;
+    position: absolute;
+    top: 7px;
+    width: 32px;
+  }
+  
+  .home2 .vector-4 {
+    height: 9px;
+    left: 10px;
+    position: absolute;
+    top: 12px;
+    width: 12px;
+  }
+  
+  .home2 .group-8 {
+    background-color: #000000;
+    border-radius: 47px;
+    height: 61px;
+    left: 0;
+    position: absolute;
+    top: 725px;
+    width: 366px;
+  }
+  
+  .home2 .group-9 {
+    height: 10px;
+    left: 139px;
+    position: relative;
+    top: 26px;
+    width: 89px;
+  }
+  
+  .home2 .text-wrapper-7 {
+    color: #ffffff;
+    font-family: "Poppins", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 20.2px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+    text-decoration: none;
+  }
+  
+  .home2 .vector-5 {
+    height: 10px;
+    left: 71px;
+    position: absolute;
+    top: 0;
+    width: 16px;
+  }
+  
+  .home2 .overlap {
+    background-color: #00000008;
+    border-radius: 47px;
+    height: 61px;
+    left: 0;
+    position: absolute;
+    top: 640px;
+    width: 366px;
+  }
+  
+  .home2 .group-10 {
+    height: 22px;
+    left: 101px;
+    position: relative;
+    top: 20px;
+    width: 164px;
+  }
+  
+  .home2 .group-11 {
+    height: 22px;
+    position: relative;
+    width: 166px;
+  }
+  
+  .home2 .text-wrapper-8 {
+    color: #000000b5;
+    font-family: "Poppins", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 32px;
+    letter-spacing: 0;
+    line-height: 20.2px;
+    position: absolute;
+    top: 5px;
+    white-space: nowrap;
+  }
+  
+  .home2 .group-12 {
+    height: 22px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 22px;
+  }
+  

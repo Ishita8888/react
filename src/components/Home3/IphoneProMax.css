@@ -1,0 +1,256 @@
+.iphone-pro-max {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .iphone-pro-max .div {
+    background-color: #ffffff;
+    border: 1px none;
+    height: 926px;
+    position: relative;
+    width: 428px;
+  }
+  
+  .iphone-pro-max .overlap {
+    height: 721px;
+    left: 33px;
+    position: absolute;
+    top: 32px;
+    width: 372px;
+  }
+  
+  .iphone-pro-max .group {
+    height: 297px;
+    left: 0;
+    position: absolute;
+    top: 424px;
+    width: 372px;
+  }
+  
+  .iphone-pro-max .group-wrapper {
+    height: 167px;
+    left: 0;
+    position: absolute;
+    top: 130px;
+    width: 361px;
+  }
+  
+  .iphone-pro-max .group-2 {
+    height: 167px;
+    position: relative;
+    width: 365px;
+  }
+  
+  .iphone-pro-max .best-rated-courses {
+    color: transparent;
+    font-family: "Poppins", Helvetica;
+    font-size: 25px;
+    font-weight: 600;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 41px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .iphone-pro-max .text-wrapper {
+    color: #6d75d7;
+  }
+  
+  .iphone-pro-max .span {
+    color: #242424;
+  }
+  
+  .iphone-pro-max .lorem-ipsum-dolor {
+    color: #919191;
+    font-family: "Poppins", Helvetica;
+    font-size: 14px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 27px;
+    position: absolute;
+    top: 102px;
+    width: 361px;
+  }
+  
+  .iphone-pro-max .img {
+    height: 8px;
+    left: 345px;
+    position: absolute;
+    top: 0;
+    width: 28px;
+  }
+  
+  .iphone-pro-max .overlap-wrapper {
+    height: 527px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 363px;
+  }
+  
+  .iphone-pro-max .overlap-group {
+    height: 527px;
+    position: relative;
+    width: 361px;
+  }
+  
+  .iphone-pro-max .overlap-group-wrapper {
+    height: 527px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 361px;
+  }
+  
+  .iphone-pro-max .overlap-2 {
+    background-image: url(https://generation-sessions.s3.amazonaws.com/238182b9b276814e744dcd0e3ebd12b2/img/rectangle-10.svg);
+    background-size: 100% 100%;
+    height: 531px;
+    left: -4px;
+    position: relative;
+    top: -4px;
+    width: 369px;
+  }
+  
+  .iphone-pro-max .rectangle {
+    background-color: #f0f1f5;
+    border-radius: 0px 0px 9.59px 9.59px;
+    height: 22px;
+    left: 141px;
+    position: absolute;
+    top: 8px;
+    width: 87px;
+  }
+  
+  .iphone-pro-max .group-3 {
+    height: 297px;
+    left: 86px;
+    position: absolute;
+    top: 86px;
+    width: 199px;
+  }
+  
+  .iphone-pro-max .rectangle-2 {
+    background-color: #7475e4;
+    border-radius: 2.4px;
+    height: 12px;
+    left: 16px;
+    position: absolute;
+    top: 0;
+    width: 168px;
+  }
+  
+  .iphone-pro-max .rectangle-3 {
+    background-color: #f0f1f5;
+    border-radius: 2.01px;
+    height: 12px;
+    left: 52px;
+    position: absolute;
+    top: 22px;
+    width: 95px;
+  }
+  
+  .iphone-pro-max .group-4 {
+    height: 207px;
+    left: 0;
+    position: absolute;
+    top: 90px;
+    width: 199px;
+  }
+  
+  .iphone-pro-max .rectangle-4 {
+    background-color: #e3e5ea;
+    border-radius: 2.01px;
+    height: 8px;
+    left: 0;
+    position: absolute;
+    top: 180px;
+    width: 199px;
+  }
+  
+  .iphone-pro-max .rectangle-5 {
+    background-color: #e3e5ea;
+    border-radius: 2.01px;
+    height: 8px;
+    left: 23px;
+    position: absolute;
+    top: 199px;
+    width: 154px;
+  }
+  
+  .iphone-pro-max .img-wrapper {
+    background-image: url(https://generation-sessions.s3.amazonaws.com/238182b9b276814e744dcd0e3ebd12b2/img/vector-1.svg);
+    background-size: 100% 100%;
+    height: 97px;
+    left: 55px;
+    position: absolute;
+    top: 1px;
+    width: 88px;
+  }
+  
+  .iphone-pro-max .group-5 {
+    height: 25px;
+    left: 22px;
+    position: absolute;
+    top: 35px;
+    width: 45px;
+  }
+  
+  .iphone-pro-max .text-wrapper-2 {
+    color: #000000;
+    font-family: "Poppins", Helvetica;
+    font-size: 16.3px;
+    font-weight: 700;
+    left: 133px;
+    letter-spacing: 0.08px;
+    line-height: 18.6px;
+    position: absolute;
+    text-align: center;
+    top: 319px;
+    width: 96px;
+  }
+  
+  .iphone-pro-max .overlap-3 {
+    background-image: url(https://generation-sessions.s3.amazonaws.com/238182b9b276814e744dcd0e3ebd12b2/img/union.svg);
+    background-size: 100% 100%;
+    height: 52px;
+    left: 33px;
+    position: absolute;
+    top: 814px;
+    width: 361px;
+  }
+  
+  .iphone-pro-max .text-wrapper-3 {
+    color: #ffffff;
+    font-family: "Poppins", Helvetica;
+    font-size: 13.4px;
+    font-weight: 600;
+    left: 57px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 21px;
+    white-space: nowrap;
+    text-decoration: none;
+  }
+  
+  .iphone-pro-max .text-wrapper-4 {
+    color: #ffffff;
+    font-family: "Poppins", Helvetica;
+    font-size: 13.4px;
+    font-weight: 600;
+    left: 251px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 21px;
+    white-space: nowrap;
+    text-decoration: none;
+  }
+  
